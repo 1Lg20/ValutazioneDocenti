@@ -1,0 +1,42 @@
+[
+	{
+		"question":"Chiarezza nell'esposizione dei contenuti",
+		"descript":"Quanto il professore è stato chiaro nel comunicare i concetti del corso?"
+	},
+	{
+		"question":"Disponibilità e supporto",
+		"descript":"In che misura il professore si è dimostrato disponibile per risolvere dubbi e fornire supporto aggiuntivo al di fuori delle lezioni?"
+	},
+	{
+		"question":"Coinvolgimento e interesse",
+		"descript":"In che modo il professore è riuscito a coinvolgere gli studenti durante le lezioni? Ha dimostrato interesse nell'insegnamento?"
+	},
+	{
+		"question":"Valutazione e feedback",
+		"descript":"Quanto le valutazioni date e i feedback ricevuti dal professore sono stati utili per comprendere il proprio apprendimento?"
+	},
+	{
+		"question":"Organizzazione e strutturazione del corso",
+		"descript":"Quanto il corso è stato ben organizzato e strutturato dal professore?"
+	},
+	{
+		"question":"Comunicazione e disponibilità",
+		"descript":"Il professore è stato accessibile attraverso mezzi di comunicazione come email, chat o durante gli orari di ufficio?"
+	},
+	{
+		"question":"Reattività e tempestività",
+		"descript":"Quanto il professore è stato reattivo nel rispondere alle domande degli studenti o nel fornire chiarimenti in tempi ragionevoli?"
+	},
+	{
+		"question":"Metodologia didattica",
+		"descript":"In che misura il professore ha utilizzato varie metodologie di insegnamento per rendere le lezioni interessanti e coinvolgenti?"
+	},
+	{
+		"question":"Equità e imparzialità",
+		"descript":"Il professore ha trattato gli studenti in modo equo e imparziale senza favoritismi o discriminazioni"
+	},
+	{
+		"question":"Preparazione e approfondimento",
+		"descript":"Quanto il professore è sembrato preparato e competente nei contenuti del corso, dimostrando approfondimenti oltre al materiale di base?"
+	}
+]
