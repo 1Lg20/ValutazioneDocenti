@@ -2,9 +2,9 @@
 	{
 		"nome":"Manuela Dalbesio",
 		"materie":{
-			"3L":["Sistemi e Reti", "Informatica"],
-			"4L":["Sistemi e Reti", "Informatica"],
-			"5L":["Sistemi e Reti", "Informatica", "Gestione Progetto"]
+			"Classe3L":["Sistemi e Reti", "Informatica"],
+			"Classe4L":["Sistemi e Reti", "Informatica"],
+			"Classe5L":["Sistemi e Reti", "Informatica", "Gestione Progetto"]
 		},
 		"istituto":["Rivoira"],
 		"valutato":false
@@ -13,9 +13,9 @@
 		"nome":"Pierangelo Verga",
 		"materie":{
 			"2L":["STA"],
-			"3L":["Sistemi e Reti"],
-			"4L":["Sistemi e Reti"],
-			"5L":["Sistemi e Reti", "Gestione Progetto"]
+			"Classe3L":["Sistemi e Reti"],
+			"Classe4L":["Sistemi e Reti"],
+			"Classe5L":["Sistemi e Reti", "Gestione Progetto"]
 		},
 		"istituto":["Rivoira"],
 		"valutato":false
@@ -23,9 +23,9 @@
 	{
 		"nome":"Flaviano Monge",
 		"materie":{
-			"3L":["Informatica"],
-			"4L":["Informatica"],
-			"5L":["Informatica"]
+			"Classe3L":["Informatica"],
+			"Classe4L":["Informatica"],
+			"Classe5L":["Informatica"]
 		},
 		"istituto":["Rivoira"],
 		"valutato":false
@@ -33,9 +33,9 @@
 	{
 		"nome":"Monica Rosso",
 		"materie":{
-			"1X":["Inglese"],
-			"4L":["Inglese"],
-			"5F":["Inglese"]
+			"Classe1X":["Inglese"],
+			"Classe4L":["Inglese"],
+			"Classe5F":["Inglese"]
 		},
 		"istituto":["Rivoira"],
 		"valutato":false
@@ -43,7 +43,7 @@
 	{
 		"nome":"Carlotta Rosso",
 		"materie":{
-			"4L":["Educazione Fisica"]
+			"Classe4L":["Educazione Fisica"]
 		},
 		"istituto":["Rivoira"],
 		"valutato":false
@@ -51,8 +51,8 @@
 	{
 		"nome":"Giovanna Migliore",
 		"materie":{
-			"4L":["Lingua e Letteratura italiana", "Storia"],
-			"5L":["Lingua e Letteratura italiana", "Storia"]
+			"Classe4L":["Lingua e Letteratura italiana", "Storia"],
+			"Classe5L":["Lingua e Letteratura italiana", "Storia"]
 		},
 		"istituto":["Rivoira"],
 		"valutato":false
@@ -61,7 +61,7 @@
 		"nome":"Raffaella Cometto",
 		"materie":{
 			"2L":["Matematica"],
-			"4L":["Matematica"]
+			"Classe4L":["Matematica"]
 		},
 		"istituto":["Rivoira"],
 		"valutato":false
@@ -69,7 +69,7 @@
 	{
 		"nome":"Nazareno Muratore",
 		"materie":{
-			"4L":["Telecomunicazioni"]
+			"Classe4L":["Telecomunicazioni"]
 		},
 		"istituto":["Rivoira"],
 		"valutato":false
@@ -77,7 +77,7 @@
 	{
 		"nome":"Patrick Gourdain",
 		"materie":{
-			"4L":["Telecomunicazioni"]
+			"Classe4L":["Telecomunicazioni"]
 		},
 		"istituto":["Rivoira"],
 		"valutato":false
@@ -85,9 +85,9 @@
 	{
 		"nome":"Enrico Allione",
 		"materie":{
-			"1L":["Informatica"],
-			"4L":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"],
-			"5L":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"]
+			"Classe1L":["Informatica"],
+			"Classe4L":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"],
+			"Classe5L":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"]
 		},
 		"istituto":["Rivoira"],
 		"valutato":false
@@ -95,10 +95,10 @@
 	{
 		"nome":"Andrea Giordano",
 		"materie":{
-			"1L":["Informatica"],
-			"4A":["Informatica"],
-			"4L":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"],
-			"5L":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"]
+			"Classe1L":["Informatica"],
+			"Classe4A":["Informatica"],
+			"Classe4L":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"],
+			"Classe5L":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"]
 		},
 		"istituto":["Denina","Rivoira"],
 		"valutato":false
@@ -106,7 +106,7 @@
 	{
 		"nome":"Sara Obertino",
 		"materie":{
-			"4L":["Insegnamento Religione Cattolica"]
+			"Classe4L":["Insegnamento Religione Cattolica"]
 		},
 		"istituto":["Rivoira"],
 		"valutato":false
@@ -114,7 +114,7 @@
 	{
 		"nome":"Rossella Rossaro",
 		"materie":{
-			"4L":["Educazione Civica"]
+			"Classe4L":["Educazione Civica"]
 		},
 		"istituto":["Rivoira"],
 		"valutato":false
