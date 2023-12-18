@@ -1,42 +1,32 @@
 [
 	{
-		"question":"Chiarezza nell'esposizione dei contenuti",
-		"descript":"Quanto il professore è stato chiaro nel comunicare i concetti del corso?"
+		"question":"L’insegnante espone gli argomenti in modo chiaro ed efficace con opportuni esempi"
 	},
 	{
-		"question":"Disponibilità e supporto",
-		"descript":"In che misura il professore si è dimostrato disponibile per risolvere dubbi e fornire supporto aggiuntivo al di fuori delle lezioni?"
+		"question":"L’insegnante si mostra disponibile per chiarimenti e in caso attua strategie di recupero e/o approfondimento."
 	},
 	{
-		"question":"Coinvolgimento e interesse",
-		"descript":"In che modo il professore è riuscito a coinvolgere gli studenti durante le lezioni? Ha dimostrato interesse nell'insegnamento?"
+		"question":"L’insegnante è disponibile ad aiutare il singolo a sviluppare un metodo di apprendimento e di lavoro per quanto riguarda la sua materia."
 	},
 	{
-		"question":"Valutazione e feedback",
-		"descript":"Quanto le valutazioni date e i feedback ricevuti dal professore sono stati utili per comprendere il proprio apprendimento?"
+		"question":"L’insegnante utilizza, oltre al libro di testo, strumenti e contenuti aggiuntivi utili alla didattica."
 	},
 	{
-		"question":"Organizzazione e strutturazione del corso",
-		"descript":"Quanto il corso è stato ben organizzato e strutturato dal professore?"
+		"question":"I metodi didattici utilizzati dall’insegnante favoriscono l’apprendimento del corso di studi."
 	},
 	{
-		"question":"Comunicazione e disponibilità",
-		"descript":"Il professore è stato accessibile attraverso mezzi di comunicazione come email, chat o durante gli orari di ufficio?"
+		"question":"Il carico di lavoro è conforme alle esigenze e alle possibilità degli studenti."
 	},
 	{
-		"question":"Reattività e tempestività",
-		"descript":"Quanto il professore è stato reattivo nel rispondere alle domande degli studenti o nel fornire chiarimenti in tempi ragionevoli?"
+		"question":"La programmazione delle verifiche ed attività è adeguata e viene comunicata con buon anticipo."
 	},
 	{
-		"question":"Metodologia didattica",
-		"descript":"In che misura il professore ha utilizzato varie metodologie di insegnamento per rendere le lezioni interessanti e coinvolgenti?"
+		"question":"I tempi di correzione delle prove scritte rispettano i 15 giorni previsti dalla norma."
 	},
 	{
-		"question":"Equità e imparzialità",
-		"descript":"Il professore ha trattato gli studenti in modo equo e imparziale senza favoritismi o discriminazioni"
+		"question":"L’insegnante, insieme con gli studenti, riesce a mantenere la disciplina all’interno della classe e a creare un ambiente sereno e costruttivo."
 	},
 	{
-		"question":"Preparazione e approfondimento",
-		"descript":"Quanto il professore è sembrato preparato e competente nei contenuti del corso, dimostrando approfondimenti oltre al materiale di base?"
+		"question":"L’insegnante si dimostra attento a valorizzare interessi e attitudini degli studenti."
 	}
 ]
