@@ -12,7 +12,7 @@
 	{
 		"nome":"Pierangelo Verga",
 		"materie":{
-			"2L":["STA"],
+			"Classe2L":["STA"],
 			"Classe3L":["Sistemi e Reti"],
 			"Classe4L":["Sistemi e Reti"],
 			"Classe5L":["Sistemi e Reti", "Gestione Progetto"]
@@ -60,7 +60,7 @@
 	{
 		"nome":"Raffaella Cometto",
 		"materie":{
-			"2L":["Matematica"],
+			"Classe2L":["Matematica"],
 			"Classe4L":["Matematica"]
 		},
 		"istituto":["Rivoira"],
