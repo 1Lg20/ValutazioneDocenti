@@ -2,19 +2,19 @@
 	{
 		"username": "alunno3L",
 		"password": "alunno3L",
-		"classe": "3L",
+		"classe": "Classe3L",
 		"istituto": "Rivoira"
 	},
 	{
 		"username": "alunno4L",
 		"password": "alunno4L",
-		"classe": "4L",
+		"classe": "Classe4L",
 		"istituto": "Rivoira"
 	},
 	{
 		"username": "alunno5L",
 		"password": "alunno5L",
-		"classe": "5L",
+		"classe": "Classe5L",
 		"istituto": "Rivoira"
 	}
 ]
