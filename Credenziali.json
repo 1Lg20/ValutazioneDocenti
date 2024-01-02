@@ -1,0 +1,20 @@
+[
+	{
+		"username": "alunno3L",
+		"password": "alunno3L",
+		"classe": "3L",
+		"istituto": "Rivoira"
+	},
+	{
+		"username": "alunno4L",
+		"password": "alunno4L",
+		"classe": "4L",
+		"istituto": "Rivoira"
+	},
+	{
+		"username": "alunno5L",
+		"password": "alunno5L",
+		"classe": "5L",
+		"istituto": "Rivoira"
+	}
+]
