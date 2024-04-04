@@ -1,0 +1,54 @@
+[
+	{
+		"nome":"Manuela Dalbesio",
+		"materie":["Sistemi e Reti", "Informatica"],
+	},
+	{
+		"nome":"Pierangelo Verga",
+		"materie":["Sistemi e Reti"],
+	},
+	{
+		"nome":"Flaviano Monge",
+		"materie":["Informatica"],
+	},
+	{
+		"nome":"Monica Rosso",
+		"materie":["Inglese"],
+	},
+	{
+		"nome":"Carlotta Rosso",
+		"materie":["Educazione Fisica"],
+	},
+	{
+		"nome":"Giovanna Migliore",
+		"materie":["Lingua e Letteratura italiana", "Storia"],
+	},
+	{
+		"nome":"Raffaella Cometto",
+		"materie":["Matematica"],
+	},
+	{
+		"nome":"Nazareno Muratore",
+		"materie":["Telecomunicazioni"],
+	},
+	{
+		"nome":"Patrick Gourdain",
+		"materie":["Telecomunicazioni"]
+	},
+	{
+		"nome":"Enrico Allione",
+		"materie":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"],
+	},
+	{
+		"nome":"Andrea Giordano",
+		"materie":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"],
+	},
+	{
+		"nome":"Sara Obertino",
+		"materie":["Insegnamento Religione Cattolica"]
+	},
+	{
+		"nome":"Rossella Rossaro",
+		"materie":["Educazione Civica"],
+	}
+]
