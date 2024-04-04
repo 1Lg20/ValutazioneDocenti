@@ -1,35 +1,35 @@
 [
 	{
 		"nome":"Manuela Dalbesio",
-		"materie":["Sistemi e Reti", "Informatica"],
+		"materie":["Sistemi e Reti", "Informatica"]
 	},
 	{
 		"nome":"Pierangelo Verga",
-		"materie":["Sistemi e Reti"],
+		"materie":["Sistemi e Reti"]
 	},
 	{
 		"nome":"Flaviano Monge",
-		"materie":["Informatica"],
+		"materie":["Informatica"]
 	},
 	{
 		"nome":"Monica Rosso",
-		"materie":["Inglese"],
+		"materie":["Inglese"]
 	},
 	{
 		"nome":"Carlotta Rosso",
-		"materie":["Educazione Fisica"],
+		"materie":["Educazione Fisica"]
 	},
 	{
 		"nome":"Giovanna Migliore",
-		"materie":["Lingua e Letteratura italiana", "Storia"],
+		"materie":["Lingua e Letteratura italiana", "Storia"]
 	},
 	{
 		"nome":"Raffaella Cometto",
-		"materie":["Matematica"],
+		"materie":["Matematica"]
 	},
 	{
 		"nome":"Nazareno Muratore",
-		"materie":["Telecomunicazioni"],
+		"materie":["Telecomunicazioni"]
 	},
 	{
 		"nome":"Patrick Gourdain",
@@ -37,11 +37,11 @@
 	},
 	{
 		"nome":"Enrico Allione",
-		"materie":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"],
+		"materie":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"]
 	},
 	{
 		"nome":"Andrea Giordano",
-		"materie":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"],
+		"materie":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"]
 	},
 	{
 		"nome":"Sara Obertino",
@@ -49,6 +49,6 @@
 	},
 	{
 		"nome":"Rossella Rossaro",
-		"materie":["Educazione Civica"],
+		"materie":["Educazione Civica"]
 	}
 ]
