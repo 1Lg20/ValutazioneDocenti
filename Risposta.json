@@ -1,6 +1,6 @@
 {
-	"alunno":"Nome alunno";
-	"professore":"Nome professore valutato";
+	"alunno":"Nome alunno",
+	"professore":"Nome professore valutato",
 	"q01":"Voto",
 	"q02":"Voto",
 	"q03":"Voto",
