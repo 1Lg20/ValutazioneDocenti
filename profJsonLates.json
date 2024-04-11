@@ -1,50 +1,74 @@
 [
 	{
-		"nome":"Manuela Dalbesio",
+		"nome":"Manuela ",
+		"conogme":"Dalbesio",
+		"mail":"manuela.dalbesio@denina.it",
 		"materie":["Sistemi e Reti", "Informatica"]
 	},
 	{
-		"nome":"Pierangelo Verga",
+		"nome":"Pierangelo",
+		"cognome":"Verga",
+		"mail":"pierangelo.verga@denina.it",
 		"materie":["Sistemi e Reti"]
 	},
 	{
-		"nome":"Flaviano Monge",
+		"nome":"Flaviano",
+		"cognome":"Monge",
+		"mail":"flaviano.monge@denina.it",
 		"materie":["Informatica"]
 	},
 	{
-		"nome":"Monica Rosso",
+		"nome":"Monica",
+		"cognome":"Rosso",
+		"mail":"monica.rosso@denina.it",
 		"materie":["Inglese"]
 	},
 	{
-		"nome":"Carlotta Rosso",
+		"nome":"Carlotta",
+		"cognome":"Rosso"
+		"mail":"carlotta.rosso@denina.it",
 		"materie":["Educazione Fisica"]
 	},
 	{
-		"nome":"Giovanna Migliore",
+		"nome":"Giovanna",
+		"cognome":"Migliore",
+		"mail":"giovanna.migliore@denina.it",
 		"materie":["Lingua e Letteratura italiana", "Storia"]
 	},
 	{
-		"nome":"Raffaella Cometto",
+		"nome":"Raffaella",
+		"cognome":"Cometto",
+		"mail":"raffaella.cometto@denina.it",
 		"materie":["Matematica"]
 	},
 	{
-		"nome":"Nazareno Muratore",
+		"nome":"Nazareno",
+		"cognome":"Muratore",
+		"mail":"nazareno.muratore@denina.it",
 		"materie":["Telecomunicazioni"]
 	},
 	{
-		"nome":"Patrick Gourdain",
+		"nome":"Patrick",
+		"cognome":"Gourdain"
+		"mail":"patrick.gourdain@denina.it",
 		"materie":["Telecomunicazioni"]
 	},
 	{
-		"nome":"Enrico Allione",
+		"nome":"Enrico",
+		"cognome":"Allione",
+		"mail":"enrico.allione@denina.it",
 		"materie":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"]
 	},
 	{
-		"nome":"Andrea Giordano",
+		"nome":"Andrea",
+		"cognome":"Giordano",
+		"mail":"andrea.giordano@denina.it",
 		"materie":["Tecnologie e Progettazioni di Sistemi Informatici e di Telecomunicazione"]
 	},
 	{
-		"nome":"Sara Obertino",
+		"nome":"Sara",
+		"cognome":"Obertino",
+		"mail":"sara.obertino@denina.it",
 		"materie":["Insegnamento Religione Cattolica"]
 	},
 	{
