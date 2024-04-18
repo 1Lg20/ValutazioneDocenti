@@ -25,7 +25,7 @@
 	},
 	{
 		"nome":"Carlotta",
-		"cognome":"Rosso"
+		"cognome":"Rosso",
 		"mail":"carlotta.rosso@denina.it",
 		"materie":["Educazione Fisica"]
 	},
@@ -49,7 +49,7 @@
 	},
 	{
 		"nome":"Patrick",
-		"cognome":"Gourdain"
+		"cognome":"Gourdain",
 		"mail":"patrick.gourdain@denina.it",
 		"materie":["Telecomunicazioni"]
 	},
@@ -72,7 +72,9 @@
 		"materie":["Insegnamento Religione Cattolica"]
 	},
 	{
-		"nome":"Rossella Rossaro",
+		"nome":"Rossella",
+		"cognome":"Rossaro"
+		"mail":"rossella.rossaro@denina.it",
 		"materie":["Educazione Civica"]
 	}
 ]
